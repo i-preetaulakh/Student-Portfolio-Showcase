@@ -3,6 +3,8 @@
 /upgrade
 
 # ignore these plugins
+/plugins/debug-bar
+/plugins/safe-svg
 
 # ignore node dependency directories
 node_modules
