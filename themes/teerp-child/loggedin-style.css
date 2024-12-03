@@ -1,0 +1,31 @@
+header {
+    color: rgb(255, 255, 255);
+}
+
+header img:hover {
+    transform: scale(1.1);
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+    padding-left:1rem ;
+    padding-right:1rem ;
+}
+
+nav a:hover {
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);    
+}
+
+nav ul:hover {
+    transform: scale(1.1);
+}
+footer {
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    font-weight: bold;
+}
+
+footer h2 {
+    color: black;
+}
+
