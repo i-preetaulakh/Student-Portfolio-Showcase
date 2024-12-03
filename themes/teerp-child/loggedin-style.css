@@ -1,4 +1,8 @@
-header {
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+header p{
     color: rgb(255, 255, 255);
 }
 
@@ -19,6 +23,17 @@ nav a:hover {
 nav ul:hover {
     transform: scale(1.1);
 }
+
+img:hover{
+    transform: scale(1.03);
+}
+
+footer a {
+    color: grey;
+    text-decoration: none;
+}
+
+
 footer {
     background-color: rgb(255, 255, 255);
     color: #000000;
